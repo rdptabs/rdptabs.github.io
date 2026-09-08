@@ -4,7 +4,7 @@ The project page for **RdpTabs**, a Windows Remote Desktop client with Chrome-st
 <https://rdptabs.github.io/>
 
 The application itself — source, releases, issues — lives in
-[yzhou79/RdpTabs](https://github.com/yzhou79/RdpTabs).
+[rdptabs/RdpTabs](https://github.com/rdptabs/RdpTabs).
 
 ## What is in here
 
