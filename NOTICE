@@ -1,0 +1,11 @@
+RdpTabs project page
+Copyright 2026 yzhou79
+
+The Apache License 2.0 in the LICENSE file covers this repository's own content.
+
+inter-latin.woff2 is a latin subset of the Inter typeface by Rasmus Andersson,
+redistributed under the SIL Open Font License 1.1. Its full licence text is in
+inter-OFL.txt.
+
+The screenshots are of RdpTabs itself; the remote desktop visible in
+site-session.jpg is Windows' own default wallpaper.
