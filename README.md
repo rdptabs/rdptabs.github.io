@@ -1,6 +1,6 @@
 # rdptabs.github.io
 
-The project page for **RdpTabs**, a Windows Remote Desktop client with Chrome-style tabs:
+The project page for **RdpTabs**, a Windows Remote Desktop client with browser-style tabs:
 <https://rdptabs.github.io/>
 
 The application itself — source, releases, issues — lives in
